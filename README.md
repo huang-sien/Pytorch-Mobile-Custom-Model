@@ -43,8 +43,10 @@
     Follow Pytorch turtorial
     Put your model.pt to ./PyTorchDemoApp\app\src\main\assets and delete other .pt
     Open PyTorchDemoApp in Android Studio
+    
     Constants.java : you need to follow your training classes to change the name
     VisionListActivity.java : line 18 change name to your model name (model.pt)
+    
     Run in your Mobile 
     Finish!!!
     
