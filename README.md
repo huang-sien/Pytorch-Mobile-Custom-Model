@@ -1,7 +1,11 @@
 # Pytorch-Mobile-Custom-Model
 ## Data:   
-./train/ant/  
-    djqiopwd.jpg     
-    viowhvwe.jpg  
-  
-              
+
+    ./train/┬ant/ ┬ jgpowejgf.jpg 
+            |     ├ djqiopwd.jpg
+            |     ├ viowhvwe.jpg
+            |     └ ....
+            ├bee/ ┬ hjoaf.jpg
+            |     ├...
+            ...
+                
